@@ -1,17 +1,17 @@
-# HR Attrition SQL Case Study 📊
+# HR Attrition SQL Case Study 
 
 **By Mercy Kariuki**  
 *Junior Data Analyst | Remote-Ready | Aspiring Tech Professional*
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQuery — and provide actionable recommendations for the HR team.
 
 ---
 
-## 🧠 Key Business Questions
+## Key Business Questions
 
 1. How many employees left the company?
 2. What is the attrition rate by department?
@@ -21,7 +21,7 @@ To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQu
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Google BigQuery
 - SQL
@@ -30,7 +30,7 @@ To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQu
 
 ---
 
-## 📊 Summary of Insights
+## Summary of Insights
 
 | Question | Insight |
 |---------|---------|
@@ -42,7 +42,7 @@ To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQu
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Reassess compensation for junior/entry-level roles
 - Offer hybrid/remote options or commuter benefits
@@ -51,7 +51,7 @@ To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQu
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `SQL_queries.sql` – All five queries used for analysis
 - `README.md` – This case study summary
@@ -59,8 +59,8 @@ To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQu
 
 ---
 
-## 👩🏽‍💻 About Me
+##  About Me
 
 I’m an aspiring data analyst transitioning from a strong HR and operations background. I bring real-world business sense, problem-solving, and people-first insight to data roles. I’m currently based in Kenya and open to remote or Portugal-based roles.
 
-> Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)
+> Let’s connect on: www.linkedin.com/in/mercywachera
