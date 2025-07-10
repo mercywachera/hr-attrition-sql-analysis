@@ -55,7 +55,6 @@ To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQu
 
 - `SQL_queries.sql` – All five queries used for analysis
 - `README.md` – This case study summary
-- (Optional) `Screenshots/` – Visual tables or exports
 
 ---
 
