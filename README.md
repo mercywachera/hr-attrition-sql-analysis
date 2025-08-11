@@ -40,6 +40,9 @@ To analyze employee attrition patterns using SQL and the IBM HR dataset in BigQu
 | **Q4** | Employees who left lived farther (10.6 km vs 8.9 km) |
 | **Q5** | 18–25 age group had the highest attrition (35.8%) |
 
+My analysis of IBM’s HR dataset revealed that 237 employees left the company, with Sales and HR showing the highest attrition. Leavers earned on average €2,000 less per month than those who stayed and lived farther from the office (10.6 km vs. 8.9 km). The most at-risk group was employees aged 18–25, who had a 35.8% attrition rate.
+
+These findings point to potential compensation gaps, commuting challenges, and engagement issues among early-career employees.
 ---
 
 ## Recommendations
